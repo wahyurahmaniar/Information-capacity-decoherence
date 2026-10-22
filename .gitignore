@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*-eps-converted-to.pdf
+new_fig*.png

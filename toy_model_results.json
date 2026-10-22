@@ -1,0 +1,95 @@
+{
+ "ordered": {
+  "DeltaE": 0.5,
+  "bandwidth": 3.4939592074349335,
+  "lambda_L": 3.099588790454363,
+  "tau_ML": 3.141592653589793,
+  "log2_b": 14.048452689909716,
+  "chi": 2.010391629646886,
+  "tau_cap": 7.082614708005163
+ },
+ "random_fields_W1": {
+  "E_dyn": 0.5,
+  "lambda_L": 3.0882691726397002,
+  "Lambda_OTOC": 13.997148105305822,
+  "ratio_mean": 0.9963480259544353,
+  "ratio_std": 0.03543455167597151
+ },
+ "random_fields_W2": {
+  "E_dyn": 0.5,
+  "lambda_L": 2.4070385325943495,
+  "Lambda_OTOC": 10.909565504972846,
+  "ratio_mean": 0.7765670530256067,
+  "ratio_std": 0.1943267841989996
+ },
+ "random_fields_W3": {
+  "E_dyn": 0.5,
+  "lambda_L": 1.6258473639245399,
+  "Lambda_OTOC": 7.368925788946397,
+  "ratio_mean": 0.5245364704284564,
+  "ratio_std": 0.2740365524546391
+ },
+ "random_fields_W4": {
+  "E_dyn": 0.5,
+  "lambda_L": 1.0803718155424027,
+  "Lambda_OTOC": 4.896634155117867,
+  "ratio_mean": 0.348553272250037,
+  "ratio_std": 0.2861814258073285
+ },
+ "random_couplings_W1": {
+  "E_dyn": 0.5286934526880304,
+  "lambda_L": 2.72332504162876,
+  "Lambda_OTOC": 11.673200991200323,
+  "ratio_mean": 0.8786084947834493,
+  "ratio_std": 0.3115069827511913
+ },
+ "random_couplings_W2": {
+  "E_dyn": 0.6551090619904704,
+  "lambda_L": 2.8119185361746157,
+  "Lambda_OTOC": 9.727103649505224,
+  "ratio_mean": 0.907190832807994,
+  "ratio_std": 0.19762673944070835
+ },
+ "random_couplings_W3": {
+  "E_dyn": 0.8372112235292333,
+  "lambda_L": 2.4507132082030245,
+  "Lambda_OTOC": 6.633639487706289,
+  "ratio_mean": 0.7906575271372621,
+  "ratio_std": 0.2481584445538923
+ },
+ "random_couplings_W4": {
+  "E_dyn": 1.0329482980389777,
+  "lambda_L": 2.1264799936103937,
+  "Lambda_OTOC": 4.665273752679639,
+  "ratio_mean": 0.6860522918908468,
+  "ratio_std": 0.21041278919342876
+ },
+ "heisenberg_random_fields_W1": {
+  "E_dyn": 0.5,
+  "lambda_L": 3.037938612957488,
+  "Lambda_OTOC": 13.769031882686308,
+  "ratio_mean": 0.9801102076227868,
+  "ratio_std": 0.05760470003147983
+ },
+ "heisenberg_random_fields_W2": {
+  "E_dyn": 0.5,
+  "lambda_L": 2.4966340753413214,
+  "Lambda_OTOC": 11.315644771804596,
+  "ratio_mean": 0.8054726752884354,
+  "ratio_std": 0.1438087475169825
+ },
+ "heisenberg_random_fields_W3": {
+  "E_dyn": 0.5,
+  "lambda_L": 1.9350296565582168,
+  "Lambda_OTOC": 8.770251288638025,
+  "ratio_mean": 0.6242859254483768,
+  "ratio_std": 0.20397887804107936
+ },
+ "heisenberg_random_fields_W4": {
+  "E_dyn": 0.5000000000000001,
+  "lambda_L": 1.481910006862927,
+  "Lambda_OTOC": 6.716549848880391,
+  "ratio_mean": 0.47809890506337016,
+  "ratio_std": 0.20593383481246744
+ }
+}
