@@ -1,4 +1,4 @@
-# Information Capacity Decoherence: numerics and figures
+# Information Capacity Decoherence
 
 Code reproducing the numerical results and figures of
 
